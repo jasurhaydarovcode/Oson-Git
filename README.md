@@ -1,4 +1,5 @@
 # Oson Git
+<img align="right" src="https://raw.githubusercontent.com/jasurhaydarovcode/Oson-Git/refs/heads/master/Oson%20Git/Assets/favicon.ico" width="50px"/>
 
 <a href="https://github.com/jasurhaydarovcode/Oson-Git/releases/download/YuklabOlish/Oson.Git.Setup.rar">Yuklab Olish OsonGitSetup.zip</a>
 
