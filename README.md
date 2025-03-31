@@ -1,5 +1,7 @@
 # Oson Git
 
+<a href="https://github.com/jasurhaydarovcode/Oson-Git/releases/download/YuklabOlish/Oson.Git.Setup.rar">Yuklab Olish OsonGitSetup.zip</a>
+
 Oson Git – bu **Windows** uchun qulay **Git boshqaruv dasturi** bo‘lib, foydalanuvchilarga GitHub bilan ishlashni osonlashtiradi. Dastur orqali **mahalliy papkani tanlash**, **GitHub'ga ulanish**, **commit qilish** va **o‘zgarishlarni kuzatish** mumkin.
 
 ## 📌 Xususiyatlar
@@ -13,7 +15,7 @@ Oson Git – bu **Windows** uchun qulay **Git boshqaruv dasturi** bo‘lib, foyd
 
 1. **Oson Git dasturini yuklab oling**: 
    ```plaintext
-   https://yourwebsite.com/downloads/OsonGitSetup.exe
+   https://github.com/jasurhaydarovcode/Oson-Git/releases/download/YuklabOlish/Oson.Git.Setup.rar
    ```
 2. `.exe` faylni ishga tushiring va o‘rnatish jarayonini yakunlang.
 3. Dastur ochilgandan so‘ng, lokal papkani tanlang va GitHub URL kiritib ishlashni boshlang!
